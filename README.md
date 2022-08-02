@@ -1,3 +1,3 @@
 # Cursos_Extras
-Cursos Extras referentes à disciplina de Sistemas Operacionais I
-Cursos concluídos: C, C++
+Cursos Extras referentes à disciplina de Sistemas Operacionais I,
+cursos concluídos: C, C++
